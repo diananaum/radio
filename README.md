@@ -1,4 +1,4 @@
-###  testing projects
+### Automated testing projects
 
 - [Card delivery test](https://github.com/diananaum/CardDelivery)
 
